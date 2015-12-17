@@ -1,6 +1,6 @@
 # Fragment Sketches
 
-Example Sketches for Fragment: http://www.syedrezaali.com/store/fragment-osx-app By @Rezaali 
+Example Sketches for Fragment: http://www.syedrezaali.com/store/fragment-osx-app
 
 ## Instructions
 
