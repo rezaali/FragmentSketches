@@ -3,36 +3,36 @@
 Example Sketches for Fragment: http://www.syedrezaali.com/store/fragment-osx-app
 
 <p style="text-align: center;">
-<img src="./Sketches/SDFAlien.png" width="128">
-<img src="./Sketches/Zebra.png" width="128">
-<img src="./Sketches/Wobbles.png" width="128">
-<img src="./Sketches/LavaLamp.png" width="128">
-<img src="./Sketches/10Print.png" width="128">
-<img src="./Sketches/Aging.png" width="128">
-<img src="./Sketches/CellularCircles.png" width="128">
-<img src="./Sketches/CellularSpaceFruit.png" width="128">
-<img src="./Sketches/Checkers.png" width="128">
-<img src="./Sketches/Crossroads.png" width="128">
-<img src="./Sketches/Crystal.png" width="128">
-<img src="./Sketches/CubeStripes.png" width="128">
-<img src="./Sketches/Curl.png" width="128">
-<img src="./Sketches/Dots.png" width="128">
-<img src="./Sketches/Flow.png" width="128">
-<img src="./Sketches/Fly.png" width="128">
-<img src="./Sketches/Fragment_Icon.png" width="128">
-<img src="./Sketches/InterferenceOpArt.png" width="128">
-<img src="./Sketches/Joanie.png" width="128">
-<img src="./Sketches/Jonobr1.png" width="128">
-<img src="./Sketches/OutlineSquares.png" width="128">
-<img src="./Sketches/QRCode.png" width="128">
-<img src="./Sketches/Quasicrystals.png" width="128">
-<img src="./Sketches/RayTracedSphere.png" width="128">
-<img src="./Sketches/SquareGradient.png" width="128">
-<img src="./Sketches/TryCircles.png" width="128">
-<img src="./Sketches/Ycam.png" width="128">
-<img src="./Sketches/YouMe.png" width="128">
-<img src="./Sketches/YouMeOpArt.png" width="128">
-<img src="./Sketches/ZebraSphere.png" width="128">
+<img src="./Sketches/SDFAlien.png" width="256">
+<img src="./Sketches/Zebra.png" width="256">
+<img src="./Sketches/Wobbles.png" width="256">
+<img src="./Sketches/LavaLamp.png" width="256">
+<img src="./Sketches/10Print.png" width="256">
+<img src="./Sketches/Aging.png" width="256">
+<img src="./Sketches/CellularCircles.png" width="256">
+<img src="./Sketches/CellularSpaceFruit.png" width="256">
+<img src="./Sketches/Checkers.png" width="256">
+<img src="./Sketches/Crossroads.png" width="256">
+<img src="./Sketches/Crystal.png" width="256">
+<img src="./Sketches/CubeStripes.png" width="256">
+<img src="./Sketches/Curl.png" width="256">
+<img src="./Sketches/Dots.png" width="256">
+<img src="./Sketches/Flow.png" width="256">
+<img src="./Sketches/Fly.png" width="256">
+<img src="./Sketches/Fragment_Icon.png" width="256">
+<img src="./Sketches/InterferenceOpArt.png" width="256">
+<img src="./Sketches/Joanie.png" width="256">
+<img src="./Sketches/Jonobr1.png" width="256">
+<img src="./Sketches/OutlineSquares.png" width="256">
+<img src="./Sketches/QRCode.png" width="256">
+<img src="./Sketches/Quasicrystals.png" width="256">
+<img src="./Sketches/RayTracedSphere.png" width="256">
+<img src="./Sketches/SquareGradient.png" width="256">
+<img src="./Sketches/TryCircles.png" width="256">
+<img src="./Sketches/Ycam.png" width="256">
+<img src="./Sketches/YouMe.png" width="256">
+<img src="./Sketches/YouMeOpArt.png" width="256">
+<img src="./Sketches/ZebraSphere.png" width="256">
 </p>
 
 ## Instructions
