@@ -2,7 +2,7 @@
 
 Example Sketches for Fragment: http://www.syedrezaali.com/store/fragment-osx-app
 
-![image](./10Print.png = 250x)
+![image](https://raw.githubusercontent.com/rezaali/FragmentSketches/master/Sketches/10Print.png = 250x)
 
 ## Instructions
 
