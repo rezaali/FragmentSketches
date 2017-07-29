@@ -1,6 +1,6 @@
 # Fragment Sketches
 
-Example Sketches for Fragment: http://www.syedrezaali.com/store/fragment-osx-app
+Example Sketches for Fragment: http://www.syedrezaali.com/store/fragment-win-app
 
 <p style="text-align: center;">
 <img src="./Sketches/SDFAlien.png" width="256">
